@@ -33,8 +33,7 @@ cd travel-app</code></pre>
 <pre><code>npm run dev</code></pre>
 </li>
 </ol>
-    <h2 id="usage">Usage</h2>
-    <p>Once the server is running, open <code>http://localhost:3000</code> in your web browser.</p>
+    
     <h2 id="project-structure">Project Structure</h2>
     <pre><code>src/
 assets/
