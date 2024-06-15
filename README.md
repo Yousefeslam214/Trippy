@@ -33,32 +33,6 @@ cd travel-app</code></pre>
 <pre><code>npm run dev</code></pre>
 </li>
 </ol>
-    <h2 id="project-structure">Project Structure</h2>
-    <pre><code>src/
-assets/
-1.jpg
-2.jpg
-5.jpg
-8.jpg
-components/
-Global/
-Navbar/
-Navbar.jsx
-Footer/
-Footer.jsx
-Destination/
-Destination.jsx
-DestinationData.jsx
-routes/
-Home.jsx
-About.jsx
-Contact.jsx
-Service.jsx
-styles/
-Destination.css
-App.jsx
-main.jsx
-styles.css</code></pre>
 <ul>
 <li><strong>assets/</strong>: Contains pictures.</li>
 <li><strong>components/Global</strong>: Contains Navbar and Footer components.</li>
