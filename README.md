@@ -33,7 +33,6 @@ cd travel-app</code></pre>
 <pre><code>npm run dev</code></pre>
 </li>
 </ol>
-    
     <h2 id="project-structure">Project Structure</h2>
     <pre><code>src/
 assets/
