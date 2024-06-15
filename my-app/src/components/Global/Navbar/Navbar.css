@@ -90,7 +90,7 @@ button:hover {
 }
 
 .nav-links-mobile {
-  display: none;
+  display: none ;
 }
 
 .menu-icons {
@@ -108,7 +108,7 @@ button:hover {
     -webkit-backdrop-filter: blur(4px);
     
     border: 1px solid rgba(255, 255, 255, 0.18); */
-    background-color: #fff;
+    background-color: #fff !important;
     border-radius: 13px;
     display: flex;
     flex-direction: column;

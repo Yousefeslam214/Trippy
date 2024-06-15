@@ -1,6 +1,6 @@
 import { Link } from '@mui/material'
 
-import { MenuItems } from '../../data/MenuItems';
+import { MenuItems } from '../../../data/MenuItems';
 import './Navbar.css'
 import React, { useState } from 'react';
 
@@ -18,12 +18,12 @@ const Navbar = () => {
         <i className={isToggled ? 'fas fa-times' : 'fas fa-bars'}></i>
 
       </div>
-      <ul className='nav-menu'>
+      <ul className={isToggled ? 'nav-menu active' : 'nav-menu'}>
         {MenuItems.map((item, index) => {
           return (
 
             <li key={index}>
-              <a className="nav-links" href={item.url}>
+              <a className={item.cName} href={item.url}>
 
                 <i className={item.icon}></i>{item.title}
 
