@@ -33,16 +33,6 @@ cd travel-app</code></pre>
 <pre><code>npm run dev</code></pre>
 </li>
 </ol>
-<ul>
-<li><strong>assets/</strong>: Contains pictures.</li>
-<li><strong>components/Global</strong>: Contains Navbar and Footer components.</li>
-<li><strong>components/Destination</strong>: Contains components for travel destination data.</li>
-<li><strong>routes/</strong>: Contains the different page components (Home, About, Contact, Service).</li>
-<li><strong>styles/</strong>: Contains CSS files for styling the app.</li>
-<li><strong>App.jsx</strong>: The main app component with routing.</li>
-<li><strong>main.jsx</strong>: The entry point of the app.</li>
-<li><strong>styles.css</strong>: Global styles for the app.</li>
-</ul>
     <h2 id="technologies-used">Technologies Used</h2>
     <ul>
         <li>React</li>
